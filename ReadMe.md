@@ -29,7 +29,11 @@ API Endpoints
 | PATCH  | `/api/approve`   | Manager/Admin approves/rejects booking    |
 
 Demo Videos
-[![Workspace Reservation Demo]]("workspace-reservation\demovideo\demo.mp4")
+
+
+
+Uploading demo.mp4…
+
 
 Setup & Installation  
 To run the project locally, follow these steps:  
