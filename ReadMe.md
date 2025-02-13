@@ -32,7 +32,10 @@ Demo Videos
 
 
 
-Uploading demo.mp4…
+https://github.com/user-attachments/assets/b4ccd47f-9512-477f-aa48-944290cbb811
+
+
+
 
 
 Setup & Installation  
